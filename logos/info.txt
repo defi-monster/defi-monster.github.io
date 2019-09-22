@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Gnomon-Foreground
+font link: http://indestructibletype.com/Gnomon.html
+font author: indestructible type
+font author site: http://indestructibletype.com
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Yaroslav Samoilov
+icon designer link: /Yaosamo
+        
+{"bg":"#575515","icon":"#D6CA82","font":"#FFFFFF","slogan":"#ffffff"}
+      
